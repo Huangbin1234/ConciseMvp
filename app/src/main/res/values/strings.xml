@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BaseGeneric</string>
+    <string name="str_uname">账号</string>
+    <string name="str_upsd" >密码</string>
+    <string name="str_login">登录</string>
+    <string name="str_user_empty">\"账号不能为空。\"</string>
+    <string name="str_psd_empty">\"密码不能为空。\"</string>
+    <string name="str_psd_error">\"密码长度错误，长度应为6-18位。\"</string>
+</resources>
